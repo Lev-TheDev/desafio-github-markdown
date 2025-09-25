@@ -73,15 +73,8 @@ Agora o dono do repositório poderá revisar suas alterações, fazer comentári
 
 
 ## 💡 Como Abrir uma Issue
-Se você encontrou um problema, tem uma dúvida ou uma sugestão de melhoria, o lugar certo para discutir isso é em uma Issue.
 
-1. Na página do repositório, clique na aba "Issues".
-2. Clique no botão verde "New issue".
-3. Escreva um título informativo e um comentário detalhado descrevendo a issue.
-4. Clique em "Submit new issue".
-
-As issues são fundamentais para rastrear tarefas e organizar a comunicação do projeto.
 
 ------
 
-Feito por [Jhonathan/Lev-TheDev] 💞
+Feito por [Jhonathan/Lev-TheDev] em colaboração com [] 💞

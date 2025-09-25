@@ -78,3 +78,4 @@ Agora o dono do repositório poderá revisar suas alterações, fazer comentári
 ------
 
 Feito por [Jhonathan/Lev-TheDev] em colaboração com [] 💞
+Editado via GitHub website e via terminal com `nano`.

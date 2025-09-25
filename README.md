@@ -11,7 +11,7 @@ Este projeto foi criado para aplicar de forma prática os conhecimentos adquirid
 * **GitHub:** Colaboração através de _Issues_, _Pull Requests_ (PRs) e gerenciamento de repositórios.
 * **Markdown:** Formatação de texto para criar documentações claras e bem estruturadas como esta.
 
-## 🛠️ Instruções para Colaboradores
+## 🛠️ Instruções para todos que quiserem colaborar
 
 Se você foi adicionado como colaborador, siga os passos abaixo para fazer sua primeira contribuição. Este guia irá orientá-lo em todo o processo.
 

@@ -68,7 +68,7 @@ Com suas alterações "commitadas", envie sua branch para o repositório remoto 
 3. Adicione um título claro e uma descrição detalhada para o seu PR, explicando o que você fez.
 4. Clique em "Create pull request".
 
-Pronto!
+Pronto! ou não!
 Agora o dono do repositório poderá revisar suas alterações, fazer comentários e, finalmente, aprová-las (fazer o `merge`).
 
 

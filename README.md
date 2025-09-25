@@ -4,16 +4,12 @@ Olá! Este é o repositório oficial do **Desafio de Projeto GitHub Markdown** f
 
 O principal objetivo aqui é simular um ambiente de colaboração real, passando por todas as etapas essenciais do fluxo de trabalho com Git: desde a clonagem de um repositório até a abertura de _Issues_ e _Pull Requests_.
 
----
-
 ## 🚀 Sobre o Desafio
 
 Este projeto foi criado para aplicar de forma prática os conhecimentos adquiridos sobre:
 * **Git:** Comandos essenciais como `clone`, `branch`, `commit`, `add`, e `push`.
 * **GitHub:** Colaboração através de _Issues_, _Pull Requests_ (PRs) e gerenciamento de repositórios.
 * **Markdown:** Formatação de texto para criar documentações claras e bem estruturadas como esta.
-
----
 
 ## 🛠️ Instruções para Colaboradores
 
@@ -39,10 +35,12 @@ cd desafio-github-markdown
 ### Passo 2: Criar uma Nova Branch
 Nunca trabalhe diretamente na branch main ou master. Crie sempre uma branch específica para suas alterações. Isso mantém o projeto organizado e evita conflitos.
 
-Use o comando `git checkout -b NovaBRanch` para criar e já mudar para a nova branch.
+Use o comando `git checkout -b NovaBranch` para criar e já mudar para a nova branch.
 
-# Crie uma branch com um nome descritivo (ex: adicionar-seu-nome)
+```# Crie uma branch com um nome descritivo (ex: adicionar-seu-nome)
 git checkout -b feature/adicionar-meu-nome
+```
+
 Dica: Usar prefixos como feature/, fix/ ou docs/ ajuda a identificar o propósito da branch.
 
 ### Passo 3: Realizar Alterações e Commits
@@ -50,17 +48,17 @@ Agora é a sua vez de contribuir! Faça alguma alteração no projeto. Por exemp
 
 Após fazer as alterações, use os comandos `git add` para preparar os arquivos e `git commit` para salvá-los no histórico da sua branch.
 
-# Adicione todos os arquivos modificados para a área de "stage"
-`git add .`
+```
+# Adicione todos os arquivos modificados para a área de "stage" com [git add .]
 
-# Grave as alterações com uma mensagem de commit clara e objetiva
-`git commit -m "Docs: Adiciona Fulano de Tal à lista de participantes"`
+# Grave as alterações com uma mensagem de commit clara e objetiva com [git commit -m "Docs: Adiciona Fulano de Tal à lista de participantes"]
+```
 
 ### Passo 4: Enviar as Alterações para o GitHub
 Com suas alterações "commitadas", envie sua branch para o repositório remoto no GitHub com o comando `git push`.
-
-# O '-u origin' define o rastreamento da sua branch local com a remota
-`git push -u origin feature/adicionar-meu-nome`
+```
+# O '-u origin' define o rastreamento da sua branch local com a remota em [git push -u origin feature/adicionar-meu-nome]
+```
 
 ### Passo 5: Abrir um Pull Request (PR)
 Ótimo, seu código já está no GitHub! O último passo é solicitar que suas alterações sejam incorporadas à branch main. Isso é feito através de um Pull Request.
@@ -70,11 +68,11 @@ Com suas alterações "commitadas", envie sua branch para o repositório remoto 
 3. Adicione um título claro e uma descrição detalhada para o seu PR, explicando o que você fez.
 4. Clique em "Create pull request".
 
-Pronto! Agora o dono do repositório poderá revisar suas alterações, fazer comentários e, finalmente, aprová-las (fazer o merge).
+Pronto!
+Agora o dono do repositório poderá revisar suas alterações, fazer comentários e, finalmente, aprová-las (fazer o `merge`).
 
------
 
-💡 Como Abrir uma Issue
+## 💡 Como Abrir uma Issue
 Se você encontrou um problema, tem uma dúvida ou uma sugestão de melhoria, o lugar certo para discutir isso é em uma Issue.
 
 1. Na página do repositório, clique na aba "Issues".
